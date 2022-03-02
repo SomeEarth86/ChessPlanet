@@ -53,12 +53,11 @@
 
 .ecom-card{
     width: 16rem;   
-    margin: 2rem;
+    margin: 3rem;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 .image-box{
-    border: 2px solid red;
     display: flex;
     justify-content: center;
 }
@@ -67,6 +66,12 @@
     height: 10rem;
     width: 50%;
 } 
+
+.icon{
+    position: absolute;
+    top: 0.1rem;
+    right: 0.1rem;
+}
 
 .card-detail{
     display: flex;
