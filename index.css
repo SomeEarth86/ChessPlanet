@@ -28,6 +28,7 @@ body{
     justify-content: space-between;
     flex-wrap: nowrap;
     border: none;
+    border-bottom: 1px solid var(--black);
 }
 
 a{
