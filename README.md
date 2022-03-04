@@ -1,5 +1,5 @@
-<h1 align="center"> PlanetChess </h1>
-<h3 align="center"> PlanetChess - Your One stop for all Chess related Products </h3>
+<h1 align="center"> ChessPlanet </h1>
+<h3 align="center"> ChessPlanet - Your One stop for all Chess related Products </h3>
 
 <div align="center">
 
@@ -18,7 +18,7 @@
  - CSS
 
 ## Description-
- - PlanetChess was created for Chess lovers with the aim to provide all kind of chess related stuff like Chess-books, Wearables like Hoodie and Beautiful Wooden Carved Chess sets.
+ - ChessPlanet was created for Chess lovers with the aim to provide all kind of chess related stuff like Chess-books, Wearables like Hoodie and Beautiful Wooden Carved Chess sets.
  - Users will be able to create account , login and logout from the application via an authentication system. 
  
 ## Features -
