@@ -30,5 +30,4 @@
 - Authentication
     - [Login]()
     - [Signup]()
-    - [Logout]()
 
