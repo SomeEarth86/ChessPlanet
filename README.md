@@ -22,12 +22,12 @@
  - Users will be able to create account , login and logout from the application via an authentication system. 
  
 ## Features -
-- [Home Page]()
-- [Product Listing Page]()
-- [Filters]()
-- [Cart Management]()
-- [Wishlist Management]()
+- [Home Page](https://chessplanet-store.netlify.app/)
+- [Product Listing Page](https://chessplanet-store.netlify.app/pages/product%20list/product)
+- [Filters](https://chessplanet-store.netlify.app/pages/product%20list/product)
+- [Cart Management](https://chessplanet-store.netlify.app/pages/cart/cart)
+- [Wishlist Management](https://chessplanet-store.netlify.app/pages/wishlist/wishlist)
 - Authentication
-    - [Login]()
-    - [Signup]()
+    - [Login](https://chessplanet-store.netlify.app/pages/authentication/login)
+    - [Signup](https://chessplanet-store.netlify.app/pages/authentication/signup.html)
 
