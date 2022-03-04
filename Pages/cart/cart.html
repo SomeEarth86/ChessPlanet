@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart</title>
+
+    <link rel="stylesheet" href="https://agnee-ui.netlify.app/css/components.css">
+    <link rel="stylesheet" href="/index.css">
+    <link rel="stylesheet" href="/Pages/Product List/product.css">
+    <link rel="stylesheet" href="/Pages/wishlist/wishlist.css">
+    <link rel="stylesheet" href="cart.css">
+    <script src="https://kit.fontawesome.com/30d67fbb5a.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+    <nav class="navbar-simple">
+        <a href="/index.html">
+            <div class="nav-heading">ChessPlanet ♛</div>
+        </a>
+        <input class="search-bar" placeholder="search" type="text">
+
+
+        <div class="nav-right">
+            <a class="icon-navright" href="#">
+                <button class="btn login">Login</button>
+            </a>
+            <a class="icon-navright badge" href="#">
+                <i class="far fa-heart fa-2x"></i>
+                <span class="badge-disp">3</span>
+            </a>
+
+            <a class="icon-navright badge" href="#">
+                <i class="fas fa-shopping-cart fa-2x"></i>
+                <span class="badge-disp">5</span>
+            </a>
+        </div>
+    </nav>
+
+    <main class="content">
+
+        <h2 class="center">My Cart (2)</h2>
+
+        <div class="card-disp-box">
+
+            <div class="item-card">
+                <div class="card-imgbox">
+                    <img class="card-img" src="/assests/chess-book.jpeg" alt="chess-book">
+                </div>
+                <div class="card-texts">
+                    <h2>Strategic play</h3>
+                        <div class="price-box">
+                            Rs. 1717
+                            <span class="m-btm"><strike> 2000</strike></span>
+                            <span class="m-btm">50% off</span>
+
+                            <div class="qty-box">
+                                Quantity
+                                <i class="fas fa-minus-circle"></i>
+                                <input class="qty-bar" type="text">
+                                <i class="fas fa-plus-circle"></i>
+                            </div>
+
+                            <button class="btn btn-warning">Remove From Cart</button>
+                            <button class="btn btn-light">Move to Wishlist</button>
+
+                        </div>
+                </div>
+            </div>
+
+            <div class="order-summary">
+                <h2>Price Details</h2>
+                <hr>
+                <div class="item-cost-detail close">
+                    <p>Strategic Play</p>
+                    <p>Rs 1717</p>
+                </div>
+
+                <div class="item-cost-detail">
+                    <p>Strategic Play</p>
+                    <p>Rs 1717</p>
+                </div>
+
+                <hr>
+
+                <div class="item-cost-detail">
+                    <h3>Total Price</h3>
+                    <p>Rs 3434</p>
+                </div>
+
+                <button class="btn btn-light">Proceed to Checkout</button>
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer class="footer-box">
+
+        <div class="footer-text">
+            Made with ♥️ by Samarth Krishna Joshi
+        </div>
+
+        <div class="icon-tab">
+            <a href="https://github.com/SomeEarth86/ChessPlanet">
+                <i class="fab fa-github-square fa-3x"></i>
+            </a>
+            <a href="https://twitter.com/SomeEarthSays">
+                <i class="fab fa-twitter-square fa-3x"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/samarth-krishna-joshi/">
+                <i class="fab fa-linkedin fa-3x"></i>
+            </a>
+
+        </div>
+
+    </footer>
+</body>
+
+</html>

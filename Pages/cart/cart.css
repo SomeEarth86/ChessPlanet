@@ -1,0 +1,69 @@
+.content{
+    min-height: 70vh;
+}
+
+.card-disp-box{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.item-card{
+    height:20rem;
+    width:30rem;
+    border: 2px solid black;
+    display: flex;
+}
+
+.card-imgbox{
+    height: 100%;
+    width: 45%;
+}
+
+.card-img{
+    height: 100%;
+    width: 100%;
+
+}
+
+.card-texts{
+    padding: 1rem;
+}
+
+.price-box{
+    font-size: 1.5rem;
+}
+
+.m-btm{
+    display: block;
+}
+
+.qty-box{
+    margin-top: 1.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.qty-bar{
+    width: 10%;
+}
+
+.btn{
+    width: 80%;
+}
+
+.order-summary{
+    height: 20rem;
+    width: 25rem;
+    border: 2px solid red;
+    padding: 1.2rem;
+}
+
+.item-cost-detail{
+    display: flex;
+    justify-content: space-between;
+}
+
+.close{
+    margin-bottom: -1rem;
+}
