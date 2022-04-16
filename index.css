@@ -29,6 +29,7 @@ body{
     justify-content: space-between;
     flex-wrap: nowrap;
     border: none;
+    width: auto;
     border-bottom: 1px solid var(--black);
 }
 
