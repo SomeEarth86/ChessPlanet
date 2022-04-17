@@ -15,6 +15,7 @@ body{
 
 .wishlist-disp{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .icon{
